@@ -28,7 +28,7 @@
                 { value: "B", text: "B. Approve data" },
                 { value: "C", text: "C. Run allocation data actions" },
                 { value: "D", text: "D. Import transaction data" }
-            ], correct: ["A", "D"], correctText: ["A. Run allocation processes", "D. Import transaction data"] },
+            ], correct: ["C", "D"], correctText: ["C. Run allocation processes", "D. Import transaction data"] },
 
             { id: "q2", question: "You are creating a data action to copy data from one year to the next. In the parameter for the source year, which default setting must you change?", options: [
                 { value: "A", text: "A. Granularity" },
