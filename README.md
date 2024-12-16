@@ -49,7 +49,7 @@
                 { value: "B", text: "B. Use two properties" },
                 { value: "C", text: "C. Disable distribution" },
                 { value: "D", text: "D. Use two hierarchies" }
-            ], correct: ["B"], correctText: ["B. Use two properties"] },
+            ], correct: ["D"], correctText: ["B. Use two properties"] },
 
             { id: "q5", question: "How can you improve the performance of advanced data actions? (Note: There are 3 correct answers to this question)", options: [
                 { value: "A", text: "A. Use fewer MEMBERSET statements" },
